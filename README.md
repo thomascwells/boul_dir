@@ -1,7 +1,7 @@
 # boul_dir
 Directory of open data, code, and resources related to the City of Boulder and Boulder County
 
-PRs welcome! Love suggestions for organization of this directory, formatting, and additional data sets, repos, collaborators, etc.! 
+PRs welcome! Love suggestions for organization of this directory, formatting, and additional data sets, repos, collaborators, etc.!
 
 # Data
 
@@ -16,7 +16,9 @@ PRs welcome! Love suggestions for organization of this directory, formatting, an
 - https://github.com/thomascwells/boulder_police_stops
 - https://github.com/andypicke/Boulder_Open_Data
 - https://github.com/samzhang111/boco-jail-analysis
+- https://github.com/markyv18/CityCouncilCode
 
-# Other Resources 
+
+# Other Resources
 
 - Colorado section of Data for Democracy https://github.com/Data4Democracy/colorado
